@@ -1,5 +1,16 @@
 # Getting Started with Create React App
 [LIVE DEMO](https://counterapp-reactjs.mehraasahil.repl.co/)
+
+
+![Screenshot (4)](https://user-images.githubusercontent.com/118424866/223214035-7cda3273-1b53-4bbb-8bf9-ab0829195bb8.png)
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
